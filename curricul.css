@@ -1,0 +1,19 @@
+/*Secao de CV*/
+.cvp{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #111;
+}
+
+.cvp h2{
+    color: #00ff66;
+}
+
+.cvp .btn{
+    margin: 20px;
+}
+
+.cvp .btn:hover{
+    background-color: white;
+}
